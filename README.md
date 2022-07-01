@@ -1,6 +1,6 @@
 - Hi, I’m @vinniiee
-- I’m interested in JAVA development
-- I’m currently working on Spring Framework
+- I’m interested in Javascript development
+- I’m currently working on MERN stack Microservices
 - I’m looking to collaborate on web develpment
 - How to reach me - vs28245@gmail.com
 

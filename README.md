@@ -1,7 +1,6 @@
 - Hi, I’m @vinniiee
 - I’m interested in Javascript development
-- I’m currently working on MERN stack & Microservices
-- I’m looking to collaborate on web develpment
+- I’m looking to collaborate on frontend development using React.js
 - How to reach me - vs28245@gmail.com
 
 <!---

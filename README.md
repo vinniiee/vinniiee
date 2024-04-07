@@ -1,6 +1,6 @@
 - Hi, I’m @vinniiee
-- I’m interested in Javascript development
-- I’m looking to collaborate on MERN stack development.
+- I’m interested in Fullstack development
+- I’m looking to collaborate on Spring Boot & React development.
 - How to reach me - vinniiee.dev@gmail.com
 
 <!---
